@@ -4,7 +4,7 @@ Simple Dual attenuverter for... Dunno whatever you need two attenuverters for!
 
 # Features
 
-Two individual attenuverters packed into a 80mm x 93mm PCB. It uses 1/4" non-switching mono jacks.
+Two individual attenuverters packed into a 80mm x 93mm 2 layer PCB (1.6mm thick). It uses 1/4" non-switching mono jacks.
 
 Each attenuverter allows you to completely reverse input signal, leave it untouched, or negate it completely, using the dials on the board. Due to its odd footprint (though small) it has extremely high impedance on input, and near zero impedance on output. It uses a IC inversion chip to provide very high quality signals and still be cheap to make and purchase!
 
